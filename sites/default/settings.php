@@ -182,9 +182,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'cs160jobs1',
+      'database' => 'cs160jobs3',
       'username' => 'root',
-      'password' => '',
+      'password' => 'password',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
